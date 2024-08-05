@@ -1,8 +1,17 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "ledcoyote.com"
 ---
 
-## You're ready to go!
+# ledcoyote.com
 
-Start developing your Jekyll website.
+charlie keith's (their) website.
+
+## links
+
+[github](https://github.com/ledcoyote)
+
+## pages
+
+(blank)
+
