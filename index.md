@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ledcoyote.com"
+title: "home"
 ---
 
 # ledcoyote.com
