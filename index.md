@@ -5,7 +5,7 @@ title: "home"
 
 # ledcoyote.com
 
-charlie keith's (their) website.
+musings, thoughts, and loosely held positions by charlie keith.
 
 ## links
 
