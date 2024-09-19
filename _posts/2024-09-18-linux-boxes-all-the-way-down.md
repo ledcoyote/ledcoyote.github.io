@@ -33,13 +33,15 @@ goes for Kubernetes or S3 or Jenkins or anything. All just software running on
 machines (although I do know there's some fancyness going on with hypervisors
 and packing multiple virtual machines onto a single physical box).
 
-Cloud providers have put a lot of engineering effort into _creating
-abstractions_ of these pieces of software so you don't have to worry as much
-about running the software. You can begin to think of them as vector graphic
-icons in an architecture diagram. However, I think it's always good to take
-stock of the fact that it is only slightly more complicated than simple programs
-running on Linux boxes. It's a bit less magical and scary to realize that. I
-would invite you to take a few steps further...
+It was somewhat of an embarrassing realization when I had it (but also kind of a
+["today's lucky 10,000"](https://xkcd.com/1053/) moment). However, it is
+understandable when you think about _how much effort_ cloud providers have put
+into _creating abstractions_ of these pieces of software running on Linux boxes,
+so you don't have to worry as much about running the software. You can begin to
+think of them as vector graphic icons in an architecture diagram. However, I
+think it's always good to take stock of the fact that it is only slightly more
+complicated than simple programs running on Linux boxes. It's a bit less magical
+and scary to realize that. I would invite you to take a few steps further...
 
 _Think_ of the actual physical hardware these programs are running on. They are
 made of metal and glass, and they live inside big air-conditioned buildings.
