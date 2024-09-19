@@ -20,3 +20,7 @@ musings, thoughts, and loosely held positions
     </li>
   {% endfor %}
 </ul>
+
+## rainbow
+
+you wanna rainbow??!?1 [HERE](/rainbow), have a rainbow!
