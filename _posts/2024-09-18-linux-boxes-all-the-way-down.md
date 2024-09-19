@@ -7,8 +7,8 @@ permalink: /blog/linux-boxes-all-the-way-down.html
 
 # It's All Linux Boxes
 
-I've been working in technology for it seems like forever. I was putting together
-PCs as a middle/high schooler, and I've installed my share of linux on
+I've been working in technology for it seems like forever. I was putting
+together PCs as a middle/high schooler, and I've installed my share of linux on
 things—let's just say I'm comfortable with technology. I sort of missed the move
 of _absolutely everything_ into the cloud in the late 2000s and 2010s, as I was
 ensconced in mostly hardware-based work throughout this period. I only really
@@ -38,10 +38,11 @@ It was somewhat of an embarrassing realization when I had it (but also kind of a
 understandable when you think about _how much effort_ cloud providers have put
 into _creating abstractions_ of these pieces of software running on Linux boxes,
 so you don't have to worry as much about running the software. You can begin to
-think of them as vector graphic icons in an architecture diagram. This is very powerful, however I
-think it's good to take stock of the fact that it is only slightly more
-complicated than simple programs running on Linux boxes. It's a bit less magical
-and scary to realize that. I would invite you to take a few steps further...
+think of them as vector graphic icons in an architecture diagram. This is very
+powerful, however I think it's good to take stock of the fact that it is only
+slightly more complicated than simple programs running on Linux boxes. It's less
+magical and scary to realize that—also empowering. I would invite you to take a
+few steps further...
 
 _Think_ of the actual physical hardware these programs are running on. They are
 made of metal and glass, and they live inside big air-conditioned buildings.
