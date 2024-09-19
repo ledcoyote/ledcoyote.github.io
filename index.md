@@ -21,6 +21,8 @@ musings, thoughts, and loosely held positions
   {% endfor %}
 </ul>
 
+[atom](/feed.xml)
+
 ## rainbow
 
 you wanna rainbow??!?1 [HERE](/rainbow), have a rainbow!
