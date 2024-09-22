@@ -26,13 +26,14 @@ when ready to publish,
 ```bash
 git checkout drafts
 mv _drafts/name-of-post.md _posts/YYYY-MM-DD-name-of-post.md
+git add _drafts/name-of-post.md _posts/YYYY-MM-DD-name-of-post.md
 git commit -m 'publish name-of-post'
 git checkout main
 git checkout drafts _posts/YYYY-MM-DD-name-of-post.md
 git commit -m 'publish name-of-post'
 git push origin main
 git checkout drafts
-git rebase main
+git merge main
 git push draft drafts
 ```
 
@@ -45,6 +46,6 @@ git add _posts/YYYY-MM-DD-name-of-post.md
 git commit -m 'unpublish name-of-post'
 git push origin main
 git checkout drafts
-git rebase main
+git merge main
 git push draft drafts
 ```
