@@ -4,6 +4,10 @@ layout: default
 
 {{ content }}
 
+<footer>
+Cheers, Charlie (Ellie)<br/><em>{{ page.date | date: "%Y-%m-%d" }}</em>
+</footer>
+
 <nav>
   <ul>
     <li><a href="/blog">all posts</a></li>

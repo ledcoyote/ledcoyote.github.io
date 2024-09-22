@@ -58,5 +58,3 @@ click into your application.
 It's Linux boxes, but that's only partway down. The whole enterprise is held
 aloft by the efforts, some well-paid but the greater many not, of human workers,
 and energy and minerals extracted from this Earth.
-
-Cheers, Charlie (Ellie)<br/>_2024-09-18_
