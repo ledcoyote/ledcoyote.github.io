@@ -21,12 +21,14 @@ musings, thoughts, and loosely held positions
 
 ## rainbow
 
-you wanna rainbow??!?1 [HERE](/rainbow), have a rainbow!
+🌈🌈🌈 you wanna rainbow??!?1 [HERE](/rainbow), have a rainbow! 🌈🌈🌈
 
 ## optics
 
-[here](/optics-simple-raytrace) to play with some lenses. sorry it's not very
-user-friendly
+![Image]({{ "/assets/images/lens_system.png" | relative_url }}){: width="250" }
+
+[here](/optics-simple-raytrace) to play with some lenses. it's not super
+user-friendly, but it's kinda fun.
 
 ## links
 
