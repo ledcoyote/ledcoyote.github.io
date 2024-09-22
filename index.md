@@ -30,9 +30,8 @@ user-friendly
 
 ## links
 
-[github](https://github.com/ledcoyote)
-
-[linkedin](https://www.linkedin.com/in/charlie-keith-013a6ba6/)
+- [github](https://github.com/ledcoyote)
+- [linkedin](https://www.linkedin.com/in/charlie-keith-013a6ba6/)
 
 ## contact
 
