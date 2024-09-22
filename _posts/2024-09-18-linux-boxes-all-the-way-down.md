@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Linux Boxes All the Way Down
+title: Linux Boxes All the Way Down?
 tags: technology
 permalink: /blog/linux-boxes-all-the-way-down.html
 ---
 
-# It's All Linux Boxes
+# Linux Boxes All the Way Down?
 
 I've been working in technology for it seems like forever. I was putting
 together PCs as a middle/high schooler, and I've installed my share of linux on
