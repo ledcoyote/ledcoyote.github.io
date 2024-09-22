@@ -4,6 +4,9 @@ layout: default
 
 {{ content }}
 
-<footer>
-  <a href="/">Home</a>
-</footer>
+<nav>
+  <ul>
+    <li><a href="/blog">all posts</a></li>
+    <li><a href="/">home</a></li>
+  </ul>
+</nav>
