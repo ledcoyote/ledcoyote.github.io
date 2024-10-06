@@ -37,4 +37,4 @@ user-friendly, but it's kinda fun.
 
 ## contact
 
-email me at me at ellie dee coyote dotcom or get in touch through das socials
+email me at my first name at ellie dee coyote dotcom or get in touch through das socials
