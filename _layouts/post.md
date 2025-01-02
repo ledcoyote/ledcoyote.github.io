@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 <footer>
-~charlie<br/><em>{{ page.date | date: "%Y-%m-%d" }}</em>
+~charlie (ellie)<br/><em>{{ page.date | date: "%Y-%m-%d" }}</em>
 </footer>
 
 <nav>
