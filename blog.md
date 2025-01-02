@@ -5,6 +5,8 @@ title: blog
 
 # all blog posts
 
+[atom](/feed.xml)
+
 <ul>
   {% for post in site.posts %}
     <li>
