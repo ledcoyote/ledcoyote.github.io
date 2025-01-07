@@ -9,7 +9,7 @@ permalink: /blog/castaneda-built-world.html
 
 ## A Hole in Reality
 
-A week or two ago I was walking with my fiancée among the hills on the south end
+A week or two ago I was walking with my fiancée among the hills on the north end
 of town. It was evening, and the sun was going down. The city lights were
 winking into view, and the shaded mountains that lined the valley to the east
 and west loomed over it. There were small patches of snow here and there on the
