@@ -139,10 +139,10 @@ We've also, at various times and places in our human history, systematized
 shamanistic practices of the Yaqui, and exists in various forms throughout the
 world's religions and cults. It is also made entertainment by street and parlor
 magicians. In both settings, the intent is often to evoke emotional responses
-such as awe, dread, or delight. Interestingly one is primed with the "knowledge"
+such as awe, dread, or delight. Interestingly, one is primed with the knowledge
 going into an entertainment setting that the transformations witnessed are not
 "real." One goes into a religious liturgy with the knowledge that events _are_
-"real," but typically beyond the grasp or understanding of the observer. Both
+"real," but typically something greater than and beyond the grasp of the observer. Both
 attitudes somewhat blunt the impact of stopping the world, making it "safer,"
 but also may play a role in suspending the mind's automatic response to explain
 it away.
@@ -152,5 +152,5 @@ it away.
 After a few moments of confusion I realized that the unfathomably tall tower on
 the distant mountain was actually a normal-sized tower on the next hill over. My
 mind had gone ruthlessly into explaining mode and filled in the hole. I
-reflected on the experience as I had in past instances, and briefly mourned its
+reflected on the experience and, as I had in past instances, briefly mourned its
 passing.
