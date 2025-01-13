@@ -33,6 +33,7 @@ user-friendly, but it's kinda fun.
 ## links
 
 - [github](https://github.com/ledcoyote)
+- [bluesky](https://bsky.app/profile/ledcoyote.bsky.social)
 - [linkedin](https://www.linkedin.com/in/charlie-keith-013a6ba6/)
 
 ## contact
