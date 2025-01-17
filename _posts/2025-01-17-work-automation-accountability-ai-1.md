@@ -177,13 +177,10 @@ uncertain world.
 There is another type of discretion generally seen in enterprises. This is
 "managerial discretion." This type of discretion operates _on_ the value stream,
 deciding when and what the stream should produce and what human or automated
-resources shall be used. It also decides what the output of value streams will
-be.
-
-Managerial discretion of course also implies accountability for the decisions
-made. As noted above, accountability is present in all places where discretion
-is exercised, but enterprises are typically set up to formally centralize
-accountability in its management structure.
+resources shall be used. Managerial discretion of course also implies
+accountability for the decisions made. As noted above, accountability is present
+in all places where discretion is exercised, but enterprises are typically set
+up to formally centralize accountability in its management structure.
 
 In large enterprises managerial structures have multiple layers and form a
 hierarchy. Front-line managers who interact directly with value streams are
