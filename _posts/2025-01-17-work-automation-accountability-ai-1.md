@@ -82,7 +82,7 @@ For any value of X, this is a task that is perfectly "automatable." There is no
 place in which discretion plays any part, so there need not be any human
 involved. A machine may be constructed to press the button to any degree of
 precision (smallness of X) that technology allows. A human _could_ be tasked
-with the button pressing, depending on their skill, but this task is emminently
+with the button pressing, depending on their skill, but this task is eminently
 automatable.
 
 In contrast, consider craft work. A craftperson is an individual who has gained
@@ -169,7 +169,7 @@ applies to this one.
 The above discussions of discretion involved that which takes place _within_ a
 value stream processing step and contributes to the performance of the
 processing step. We'll call this "work discretion." In contrast, we call the
-ability to perform a non-automatable processing step to specification and within
+ability to perform an automatable processing step to specification and within
 tolerances "work performance." One effect of work discretion is to add
 variability necessary for the value stream to remain robust in the face of an
 uncertain world.
