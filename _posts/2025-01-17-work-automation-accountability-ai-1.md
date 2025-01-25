@@ -10,14 +10,14 @@ permalink: /blog/work-automation-accountability-ai-1.html
 Part of a series:
 
 1. What is Work? (this post)
-2. Deciding on the Work
+2. [Deciding on the Work](/blog/work-automation-accountability-ai-2.html)
 3. Accountability
 4. AI
 
 # What is Work?
 
-This series explores the question, "can a machine perform a human job?" We'll
-start with examining what the term "work" entails.
+This series explores the question, "can a machine do a human's job?" We'll start
+with examining what the term "work" entails.
 
 ## Value Streams
 
