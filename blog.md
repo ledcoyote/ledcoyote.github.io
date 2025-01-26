@@ -16,5 +16,5 @@ title: blog
 </ul>
 
 <nav>
-  <a href="/">Home</a>
+  <a href="/">home</a>
 </nav>
