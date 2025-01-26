@@ -478,7 +478,11 @@ formally separated from it. For very simple value streams there is usually good
 enough alignment. In large enterprises, when accountability is formally
 concentrated in the management hierarchy and discretion is distributed in the
 workforce, we see the tension play out as management tries to drive discretion
-out of the work.
+out of the work. We're starting to see a separation of _formal_ accountability
+from discretion here. While we still maintain that _moral_ accountability cannot
+be separated from discretion, formal accountability as allotted by human
+organizations may separate it from discretion, where the moral accountability
+must lie.
 
 ### Breaking Jobs Apart
 
@@ -513,4 +517,5 @@ to discuss automation technologies such as "AI," but before that we must
 interrogate some of the assumptions and assertions we've made about the moral
 concept of accountability. We have asserted that discretion always entails
 accountability. This claim demands further investigation, which we will do in
-the next part of this series.
+the next part of this series. We will also look at the notion of formal vs.
+moral accountability more closely.
