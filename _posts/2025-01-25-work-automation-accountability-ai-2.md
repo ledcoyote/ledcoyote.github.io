@@ -481,8 +481,7 @@ workforce, we see the tension play out as management tries to drive discretion
 out of the work. We're starting to see a separation of _formal_ accountability
 from discretion here. While we still maintain that _moral_ accountability cannot
 be separated from discretion, formal accountability as allotted by human
-organizations may separate it from discretion, where the moral accountability
-must lie.
+organizations may create an artificial separation.
 
 ### Breaking Jobs Apart
 
