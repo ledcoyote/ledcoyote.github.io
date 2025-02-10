@@ -109,7 +109,7 @@ that I would like to be part of having the following characteristics:
 - does its work in the open
 - employs used or refurbished hardware to minimize environmental and social
   impact
-- is LGBTQIA+ welcoming and supporting
+- is women and LGBTQIA+ welcoming and supporting
 - makes its infrastructure available to like-minded organizations in the local
   community at a realistic level of service
 
