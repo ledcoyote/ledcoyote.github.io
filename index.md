@@ -31,7 +31,6 @@ musings, thoughts, and loosely held positions
 
 - [github](https://github.com/ledcoyote)
 - [bluesky](https://bsky.app/profile/ledcoyote.bsky.social)
-- [this page (alt address)](https://ledcoyote.github.io)
 
 ## contact
 
